@@ -1,0 +1,18 @@
+.thumbnail{background-color: #eee;
+        text-align: center;
+        border: 1px solid rgb(221, 220, 220);
+        padding: 10px;
+        margin:10px;}
+  body{margin-top: 33px;}
+   .thumbnail .caption{background-color: rgba(221, 221, 221, 0.842);}
+       .text-center{text-align: center;
+                    font-family: Georgia, 'Times New Roman', Times, serif;}
+                    h1.text-center{font-size: 50px;}
+                    h2.text-center{font-size: 30px;}
+         cite{font-size: small;   }
+.container{margin-top: 33px;}
+.caption{
+        padding-top: 4px;
+        }
+         
+           
